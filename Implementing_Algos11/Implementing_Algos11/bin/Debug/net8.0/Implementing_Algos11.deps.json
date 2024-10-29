@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Implementing_Algos11/1.0.0": {
+        "runtime": {
+          "Implementing_Algos11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Implementing_Algos11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

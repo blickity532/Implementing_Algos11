@@ -1,0 +1,15 @@
+C:\Users\blick\source\repos\Implementing_Algos11\Implementing_Algos11\bin\Debug\net8.0\Implementing_Algos11.exe
+C:\Users\blick\source\repos\Implementing_Algos11\Implementing_Algos11\bin\Debug\net8.0\Implementing_Algos11.deps.json
+C:\Users\blick\source\repos\Implementing_Algos11\Implementing_Algos11\bin\Debug\net8.0\Implementing_Algos11.runtimeconfig.json
+C:\Users\blick\source\repos\Implementing_Algos11\Implementing_Algos11\bin\Debug\net8.0\Implementing_Algos11.dll
+C:\Users\blick\source\repos\Implementing_Algos11\Implementing_Algos11\bin\Debug\net8.0\Implementing_Algos11.pdb
+C:\Users\blick\source\repos\Implementing_Algos11\Implementing_Algos11\obj\Debug\net8.0\Implementing_Algos11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blick\source\repos\Implementing_Algos11\Implementing_Algos11\obj\Debug\net8.0\Implementing_Algos11.AssemblyInfoInputs.cache
+C:\Users\blick\source\repos\Implementing_Algos11\Implementing_Algos11\obj\Debug\net8.0\Implementing_Algos11.AssemblyInfo.cs
+C:\Users\blick\source\repos\Implementing_Algos11\Implementing_Algos11\obj\Debug\net8.0\Implementing_Algos11.csproj.CoreCompileInputs.cache
+C:\Users\blick\source\repos\Implementing_Algos11\Implementing_Algos11\obj\Debug\net8.0\Implementing_Algos11.sourcelink.json
+C:\Users\blick\source\repos\Implementing_Algos11\Implementing_Algos11\obj\Debug\net8.0\Implementing_Algos11.dll
+C:\Users\blick\source\repos\Implementing_Algos11\Implementing_Algos11\obj\Debug\net8.0\refint\Implementing_Algos11.dll
+C:\Users\blick\source\repos\Implementing_Algos11\Implementing_Algos11\obj\Debug\net8.0\Implementing_Algos11.pdb
+C:\Users\blick\source\repos\Implementing_Algos11\Implementing_Algos11\obj\Debug\net8.0\Implementing_Algos11.genruntimeconfig.cache
+C:\Users\blick\source\repos\Implementing_Algos11\Implementing_Algos11\obj\Debug\net8.0\ref\Implementing_Algos11.dll
